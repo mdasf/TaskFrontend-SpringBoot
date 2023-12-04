@@ -1,19 +1,22 @@
 ### Setting up Frontend
 
 ## 1. Clone the repository:
+ 	 ```bash
+ 	  git clone https://github.com/your-username/your-project.git 
  	 ```
-   git clone https://github.com/your-username/your-project.git
-   ```
+   
 
 ## 2. Navigate to Your React Project:
 Open a terminal or command prompt and navigate to the directory where your React project is located.
 
-	``` cd your-project ```
+	```bash 
+	cd your-project 
+	```
 
 ## 3. Install Dependencies:
 Run the following command to install the project dependencies specified in the package.json file.
 	
-	``` 
+	```bash 
 	npm install
 
 	```
@@ -21,7 +24,7 @@ Run the following command to install the project dependencies specified in the p
 ## 4. Usage
 	To run the application, use the following command:
 
-	``` 
+	```bash 
 	npm install
 
 	```
