@@ -8,9 +8,7 @@
 ## 2. Navigate to Your React Project:
 Open a terminal or command prompt and navigate to the directory where your React project is located.
 
-	``` 
-	cd your-project 
-	```
+	``` cd your-project ```
 
 ## 3. Install Dependencies:
 Run the following command to install the project dependencies specified in the package.json file.
